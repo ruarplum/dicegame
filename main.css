@@ -16,3 +16,9 @@ body {
     padding: 2em;
     margin: 50px;
 }
+
+.dice-image {
+    width 200px;
+    height 200px;
+    z-index: 1000;
+}
