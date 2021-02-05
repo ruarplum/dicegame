@@ -1,1 +1,24 @@
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+
+    background:linear-gradient(-90deg, rgba(255, 0, 0, 0.692),rgba(255, 196, 0, 0.568));
+}
+
+.box {
+    border: white 3px solid;
+    padding: 2em;
+    margin: 50px;
+}
+
+.dice-image {
+    width 200px;
+    height 200px;
+    z-index: 1000;
+}
