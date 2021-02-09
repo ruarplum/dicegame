@@ -1,3 +1,5 @@
+Not working at the moment
+
 // start game button 
 const start = document.querySelector(".startButton");
 // roll button 
